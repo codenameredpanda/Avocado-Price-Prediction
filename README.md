@@ -1,6 +1,6 @@
 # Predicting Avocado Prices with Machine Learning
 
-Sarah Brittle and Ceasar Saldivar
+Sarah Brittle and Cesar Saldivar
 
 ## Overview
 The purpose of this project is to build a Machine Learning model that can predict the average price of avocados.
